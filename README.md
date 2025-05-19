@@ -1,2 +1,2 @@
-# Reacct-1-lesson
+# React-1-lesson
 Created with CodeSandbox
